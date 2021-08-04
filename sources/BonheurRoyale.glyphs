@@ -20,7 +20,8 @@ DisplayStrings = (
 "/dblgravecomb/udblgrave",
 "/hungarumlautcomb",
 "/hungarumlautcomb.case",
-"/hbar rr"
+"/hbar rr",
+"th/uhorn/horncomb oo/horncomb/ohorn i"
 );
 classes = (
 {
@@ -13219,7 +13220,7 @@ unicode = 00F1;
 },
 {
 glyphname = o;
-lastChange = "2021-08-04 13:51:23 +0000";
+lastChange = "2021-08-04 13:54:44 +0000";
 layers = (
 {
 anchors = (
@@ -13241,7 +13242,7 @@ position = "{216, 280}";
 },
 {
 name = topright;
-position = "{215, 280}";
+position = "{201, 280}";
 }
 );
 layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
@@ -13656,7 +13657,7 @@ unicode = 1ECF;
 },
 {
 glyphname = ohorn;
-lastChange = "2021-07-30 13:09:52 +0000";
+lastChange = "2021-08-04 13:54:44 +0000";
 layers = (
 {
 components = (
@@ -13665,7 +13666,7 @@ name = o;
 },
 {
 name = horncomb;
-transform = "{1, 0, 0, 1, 191, 0}";
+transform = "{1, 0, 0, 1, 177, 0}";
 }
 );
 layerId = "5758FC1C-8DB2-4040-8B3F-38A5D3FE42F4";
@@ -29560,7 +29561,7 @@ unicode = 0312;
 },
 {
 glyphname = horncomb;
-lastChange = "2021-08-04 13:51:23 +0000";
+lastChange = "2021-08-04 13:54:02 +0000";
 layers = (
 {
 anchors = (
@@ -29578,7 +29579,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"72 242 LINE",
 "123 242 OFFCURVE",
 "177 264 OFFCURVE",
 "177 312 CURVE SMOOTH",
@@ -29598,9 +29598,9 @@ nodes = (
 "103 261 OFFCURVE",
 "76 258 CURVE SMOOTH",
 "66 257 OFFCURVE",
-"53 262 OFFCURVE",
-"44 250 CURVE",
-"53 245 OFFCURVE",
+"60 256 OFFCURVE",
+"58 250 CURVE",
+"58 245 OFFCURVE",
 "62 242 OFFCURVE",
 "72 242 CURVE"
 );
